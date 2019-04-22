@@ -1,5 +1,5 @@
 # pega-pipeline
-A Continuous Integration/Continuous Delivery pipeline is an automated process to quickly move applications from development through testing to deployment.
+A Continuous Integration/Continuous Delivery pipeline for Pega Platform is an automated process to quickly move applications from development through testing to deployment.
 
 You can use Jenkins to automate exporting and importing Pega 7 Platform applications. Download prpcServiceUtils tool provided by Pega to perform both export and import of Pega RAP files.
 
